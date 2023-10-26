@@ -11,6 +11,7 @@ public static void main(String[] args) {
         respuesta = ((var)/(var1+var2))+var3 >= var4;
         rest = ((var)/(var1+var2))+var3;
         System.out.println("La Respuesta es: " + rest + " asi que es: " + respuesta);
+        //Autor: Sebas
     }
     
 }
