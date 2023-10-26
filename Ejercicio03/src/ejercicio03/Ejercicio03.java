@@ -12,7 +12,6 @@ public class Ejercicio03 {
         double resultado = Math.pow(var1, var2) + Math.sqrt(var3) + (double)var4/(var5 + var6);
         System.out.println("El resultado es: " + resultado);
         //Hecho por Diego Jimenez.
-        
     }
     
 }
