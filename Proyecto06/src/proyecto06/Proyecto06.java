@@ -13,7 +13,8 @@ public class Proyecto06 {
         op1 = (Math.sqrt(val) + val1)/val2 == val3;
         op2 = (val4>val5);
         rta = (op1 == op2);
-        System.out.println("La respuesta es: " + rta);       
+        System.out.println("La respuesta es: " + rta); 
+        //Autor: Sebas
     }
     
 }

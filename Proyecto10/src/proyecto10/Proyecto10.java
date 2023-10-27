@@ -19,6 +19,7 @@ public class Proyecto10 {
         System.out.println("Por lo tanto el resultado del siguiente ejercicio entre");
         System.out.println("False and True or False or True");
         System.out.println("Resultado: " + rta);
+        //Autor: Sebas
     }
     
 }

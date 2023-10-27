@@ -17,6 +17,7 @@ public class Proyecto08 {
         System.out.println("La respuesta de la primera operacion es: " + op1);
         System.out.println("La respuesta de la segunda operacion es: " + op2);
         System.out.println("Por lo cual la respuesta final del ejercicio06 es: " + rta);
+        //Autor: Sebas
     }
     
 }
